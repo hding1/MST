@@ -13,5 +13,7 @@
   *LIST?  
     -  List out the edges in the solution.  
   *END  
-    -  terminate program
+    -  terminate program  
+  *SHORTEST_PATH? node_number node_number  
+    -  a path built from edges from your solution (not from the entire graph) that represents the least-cost route
  
